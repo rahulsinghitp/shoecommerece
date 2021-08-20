@@ -67,6 +67,9 @@ atlassian*
 !/var/.htaccess
 /vendor/*
 !/vendor/.htaccess
+!/vendor/magento/framework/Image/Adapter
+!/vendor/magento/framework/Image/Adapter/Gd2.php
+!/vendor/magento/framework/View/Element/Template/File/Validator.php
 /generated/*
 !/generated/.htaccess
 .DS_Store
